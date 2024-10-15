@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="prediction">%1$s %2$d\%%</string>
+    <string name="percentation">%1$d\%%</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="related_article">Related Article</string>
+    <string name="save_classification">Save classification result</string>
+    <string name="remove_classification">Remove classification result</string>
+    <string name="history">Classification History</string>
+    <string name="no_article">No related article found</string>
+    <string name="error_message">An error occurred : %1$s</string>
+</resources>
